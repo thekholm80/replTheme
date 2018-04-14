@@ -1,0 +1,14 @@
+/* Main areas of page */
+body, .dynamic-header, .file-tree-header, .ace_gutter {
+  background-color: #663004 !important;
+}
+
+/* Text editor & console */
+.ace_content, div#console  {
+  background-color: #8c4205 !important;
+}
+
+/* Text */
+.label, .dynamic-header, .dynamic-header-nav-item {
+  color: rgb(191, 191, 191) !important;
+}
