@@ -9,5 +9,7 @@ Chrome extension to change repl.it colors
   * Navigate to the downloaded files and select the replTheme directory
   * Navigate to repl.it development environment page
     * Click extension icon & select theme from dropdown menu
-    * Enjoy
+
+Enjoy
    
+This will probably not be updated
